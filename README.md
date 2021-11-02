@@ -1,1 +1,1 @@
-"# Git Advanced Tutorial" 
+# Git Advanced Tutorial
